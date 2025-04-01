@@ -27,7 +27,7 @@ EM ANDAMENTO...
 
 ## 📫 Como me encontrar:
 
-✉️ brunnobernardes.dev@email.com
+✉️ brunnobernardes.dev@gmail.com
 
 🔗 LinkedIn: 
 
