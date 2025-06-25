@@ -1,26 +1,19 @@
 ## 👋 Olá! Eu sou o Brunno
 
-🎓 Estudante de Ciência da Computação (2º período) com formação prévia em Análise e Desenvolvimento de Sistemas.
+  Sou estudante de Ciência da Computação, com formação prévia em Análise e Desenvolvimento de Sistemas, e sou apaixonado por tecnologia, programação e tudo que envolve o universo geek. Adepto do lifestyle de academia, busco sempre evolução pessoal e profissional, e meu objetivo é atuar na área de TI, começando no Brasil e, futuramente, expandindo internacionalmente.
 
-💻 Apaixonado por tecnologia, programação e tudo que envolve o universo geek.
+## 💡 O que estou aprendendo atualmente
 
-🏋️ Adepto do lifestyle de academia e sempre buscando evolução pessoal e profissional.
-
-🌍 Tenho o objetivo de atuar na área de TI, começando no Brasil e futuramente expandindo internacionalmente.
-
-
-## 💡 O que estou aprendendo atualmente:
-
-Fundamentos de programação em C
-
-Desenvolvimento Web com HTML, CSS e JavaScript
-
-Lógica de programação e estrutura de dados
-
+- Conteúdos do 2º período de Ciência da Computação na UFG  
+- Fundamentos de Python  
+- Introdução a redes e cibersegurança  
 
 ## 🚀 Projetos em destaque:
 
-🔐 Escape Room Quiz — Jogo interativo com perguntas sobre leis digitais
+🔐 Escape Room Quiz — Jogo interativo com perguntas sobre leis digitais (Python)
+
+🔍 Análise de desempenho de algoritmos — Estudo comparativo de tempos e memória de algoritmos de ordenação (C)  
+
 
 EM ANDAMENTO...
 
