@@ -1,43 +1,42 @@
-## 👋 Olá! Eu sou o Brunno
+### > hello_friend.exe
+<div align="center">
 
-  Sou estudante de Ciência da Computação, com formação prévia em Análise e Desenvolvimento de Sistemas, e sou apaixonado por tecnologia, programação e tudo que envolve o universo geek. Adepto do lifestyle de academia, busco sempre evolução pessoal e profissional, e meu objetivo é atuar na área de TI, começando no Brasil e, futuramente, expandindo internacionalmente.
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&width=435&lines=Computer+Science+Student+@+UFG;CyberSec+Enthusiast;Always+learning+new+exploits...;fsociety+fan)
 
-## 💡 O que estou aprendendo atualmente
+</div>
 
-- Conteúdos do 2º período de Ciência da Computação na UFG  
-- Fundamentos de Python  
-- Introdução a redes e cibersegurança  
+---
 
-## 🚀 Projetos em destaque:
+### 👨‍💻 Sobre mim / About Me
 
-🔐 Escape Room Quiz — Jogo interativo com perguntas sobre leis digitais (Python)
+Sou estudante de **Ciência da Computação na UFG**, migrando do desenvolvimento para a área de **Segurança da Informação (CyberSec)**. Minha paixão é entender como sistemas funcionam para protegê-los (e saber onde quebram).
 
-🔍 Análise de desempenho de algoritmos — Estudo comparativo de tempos e memória de algoritmos de ordenação (C)  
+- 🔭 Atualmente estudando: **Redes, Linux & Pentest Basics**
+- 🎓 Formação: Ciência da Computação (UFG) | Análise e Desenv. de Sistemas (Concluído)
+- 🛡️ Foco: **Blue Team & AppSec**
+- 🎮 Hobby: LoL & Valorant (Nick: Nukan)
 
+---
 
-EM ANDAMENTO...
+### 🛠️ Arsenal (Tech Stack)
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 
-## 📫 Como me encontrar:
+---
 
-✉️ brunnobernardes.dev@gmail.com
+### 📊 Github Stats
 
-🔗 LinkedIn: 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+</div>
 
-
-## "Em constante evolução, sempre pronto para o próximo desafio."
-
-<!--
-**BrunnoBernardes/BrunnoBernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <code>trust is a vulnerability</code>
+</div>
