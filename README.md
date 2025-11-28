@@ -9,21 +9,31 @@
 
 ### 👨‍💻 Sobre mim / About Me
 
-Sou estudante de **Ciência da Computação na UFG**, migrando do desenvolvimento para a área de **Segurança da Informação (CyberSec)**. Minha paixão é entender como sistemas funcionam para protegê-los (e saber onde quebram).
+> "Entender como o sistema é construído para saber exatamente onde ele quebra."
 
-- 🔭 Atualmente estudando: **Redes, Linux & Pentest Basics**
-- 🎓 Formação: Ciência da Computação (UFG) | Análise e Desenv. de Sistemas (Concluído)
-- 🛡️ Foco: **Blue Team & AppSec**
-- 🎮 Hobby: LoL & Valorant (Nick: Nukan)
+Estudante de **Ciência da Computação na UFG** com background em desenvolvimento (ADS), focado agora em **Segurança Ofensiva e Defensiva**.
+
+
+```user@nukan:~$ cat current_status.txt
+----------------------------------------
+[🎓] Formação 1:  Ciência da Computação @ UFG (Em andamento)
+[📜] Formação 2:  Análise e Desenv. de Sistemas (Concluído)
+[🔭] Foco:        Blue Team, AppSec & Linux Hardening
+[🎮] Hobby:       LoL/Valorant como 'Nukan'
+----------------------------------------
+```
 
 ---
 
 ### 🛠️ Arsenal (Tech Stack)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+  <br /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
