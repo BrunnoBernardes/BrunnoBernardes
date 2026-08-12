@@ -18,7 +18,7 @@ user@nukan:~$ cat current_status.txt
 ----------------------------------------
 [🎓] Formação 1:  Ciência da Computação @ UFG (Em andamento)
 [📜] Formação 2:  Análise e Desenv. de Sistemas (Concluído)
-[🔬] Pesquisa:    IA aplicada à Saúde Pública @ PET-Saúde & IA aplicada à Ciberssegurança
+[🔬] Pesquisa:    IA aplicada à Saúde Pública @ PET-Saúde
 [🔭] Foco:        CyberSec Foundations, Infraestrutura & Redes
 [🎯] Extra:       Diretor Esportivo (Organização Estudantil)
 [🎮] Hobby:       E-sports (LoL/Valorant)
@@ -32,8 +32,7 @@ user@nukan:~$ cat current_status.txt
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <br /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ---
